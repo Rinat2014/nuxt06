@@ -6,9 +6,9 @@
       <div class="flex items-center justify-around">
         <NuxtLink class="hover:opacity-70 transition" :to="('/')">Home</NuxtLink>
         <NuxtLink class="hover:opacity-70 transition" :to="('/matron-library')">Matron Library</NuxtLink>
-        <NuxtLink class="hover:opacity-70 transition" :to="('/contacts')">Contacts</NuxtLink>
+        <!-- <NuxtLink class="hover:opacity-70 transition" :to="('/contacts')">Contacts</NuxtLink> -->
         <NuxtLink class="hover:opacity-70 transition" :to="('/ak-list')">Akhanda kiirtan</NuxtLink>
-        <NuxtLink class="hover:opacity-70 transition" :to="('/about')">About</NuxtLink>
+        <!-- <NuxtLink class="hover:opacity-70 transition" :to="('/about')">About</NuxtLink> -->
       </div>
     </header>
     
