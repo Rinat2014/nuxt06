@@ -31,7 +31,7 @@ const slots = ref([
             "username": "Ramesh",
             "email": "zoom2000@list.ru"
         },
-        "time": "2026-03-25T10:00:00Z",
+        "time": "2026-04-25T10:00:00Z",
         "is_regular": false
     },
     {
@@ -41,7 +41,7 @@ const slots = ref([
             "username": "Ramesh",
             "email": "zoom2000@list.ru"
         },
-        "time": "2026-03-25T10:30:00Z",
+        "time": "2026-04-25T10:30:00Z",
         "is_regular": false
     },
     {
@@ -51,7 +51,7 @@ const slots = ref([
             "username": "Ramesh",
             "email": "zoom2000@list.ru"
         },
-        "time": "2026-03-25T11:00:00Z",
+        "time": "2026-04-25T11:00:00Z",
         "is_regular": true
     },
     {
