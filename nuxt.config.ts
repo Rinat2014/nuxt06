@@ -8,6 +8,7 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: ['@nuxtjs/color-mode'],
   css: ['~/assets/css/main.css'],
+  // ssr: false,
   vite: {
     plugins: [
       tailwindcss(),
